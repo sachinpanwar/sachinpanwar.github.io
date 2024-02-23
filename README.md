@@ -24,7 +24,7 @@ DevOps`, `git`, SQL, MS SQL Server, Power BI, Power query, DAX, Design Patterns,
 Delivered best-in class support and technical solutions (including custom `PowerShell` or `Python` scripts) for services
 and related issues in `Azure` Monitor enterprise team – Activity logs, metrics, `alerts`, action group, `log analytics`,
 autoscale, `Azure automation`, `Arc enabled servers`, `machine configuration`, update manager, `application insights`
-while maintaining key individual metrics with `~5* CSAT` (with no DSATs at all) and Avg. DTS (days to solutions) less
+while maintaining key individual metrics with `~5 :star: CSAT` (with no DSATs at all) and Avg. DTS (days to solutions) less
 than a week.
 
 Additionally, ideation and creation of solutions for global and local teams to improve collaboration.
