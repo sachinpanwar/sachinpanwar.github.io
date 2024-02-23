@@ -1,6 +1,6 @@
 # Sachin Panwar
 
-[LinkedIn] (<https://www.linkedin.com/in/sachinpanwar>)
+[![LinkedIn](./img/in-21.png)](https://www.linkedin.com/in/sachinpanwar)
 
 ## Technology summary and skills
 
