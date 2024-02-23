@@ -72,13 +72,13 @@ Used `Azure` a lot as almost every project was deployed there or had a crucial d
 - Good hands-on experience on learning new technologies, especially if based on MS stack.
 - Became adapt in analysing code for modification or adding new feature.
 
-## CERTIFICATIONS
+## Certifications
 
 `AZ 900` `AI 900`
 
-## HOBBIES
+## Hobbies
 
-Listening podcasts
+Listening to podcasts
 
 ## Education Particulars
 
