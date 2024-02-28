@@ -67,13 +67,6 @@ Created `POCs`, developed `console apps` in `.NET and Python`, `web apps`, `APIs
 - Became adapt in analysing code for modification or adding new feature.
 
 
-
-| Education |
-| --------- |
-| B. Tech CSE, Uttarakhand Technical University, 2016
-| Intermediate, Uttarakhand board, 2011 |
-| Secondary School, CBSE Board, 2008 |
-
 ## Certifications
 
 `AZ 900` `AI 900`
