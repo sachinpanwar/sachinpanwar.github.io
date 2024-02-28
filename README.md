@@ -2,58 +2,56 @@
 
 [![LinkedIn](./img/in-21.png)](https://www.linkedin.com/in/sachinpanwar)
 
-## Technology summary and skills
+## About me
 
-`Azure cloud` - Azure Monitor, autoscaling, Automation, Arc enabled servers, machine configuration, logic app, ARM
-templates, logic app.
+I am currently working as a support engineer at Microsoft for Azure products.
+I have around 3 years of software development experience including working for Microsoft (via vendor) on some projects.
 
-`Problem solving` - developing proof of concepts and solutions, `Python`, `PowerShell`, `KQL`, customer support.
+I like to learn new technologies that interests me and have a track record of delivering business results expected of me.
 
-Past development experience with `C#`, Python, `.NET`, `Angular`, Material Design, `Entity Framework`, Azure, `Azure
-DevOps`, `git`, SQL, MS SQL Server, Power BI, Power query, DAX, Design Patterns, `Linux` shell scripting, Docker, IoT,
-`Arduino programming`, MS BizTalk, MS office add-ins and `Visual studio`.
+## Skills and technology summary
+
+`Problem solving`, developing proof of concepts and solutions, `Python`, `PowerShell`, `KQL`, ARM templates.
+
+`Azure cloud support` - Azure Monitor, autoscaling, Automation, Arc enabled servers, machine configuration, logic app, ARM templates, logic app.
+
+`C#`, `Python`, TypeScript, `.NET`, Azure, `DevOps`, `git`, Power BI, `Linux`, `Visual studio`.
 
 ## Professional Experience
 
 ### Support Engineer at Microsoft, Hyderabad and Noida, India
 
-**FTE** - *3.5 Years, July 2020 to Present*
+**FTE** - *3.5 Years, Aug 2020 to Present*
 
 ### Support Engineer at Microsoft, Bengaluru, India
 
-**Vendor** - *9 Months, Oct 2019 to July 2020*
+**Vendor** - *9 Months, Nov 2019 to July 2020*
 
-Delivered best-in class support and technical solutions (including custom `PowerShell` or `Python` scripts) for services
-and related issues in `Azure` Monitor enterprise team – Activity logs, metrics, `alerts`, action group, `log analytics`,
-autoscale, `Azure automation`, `Arc enabled servers`, `machine configuration`, update manager, `application insights`
-while maintaining key individual metrics with `~5* CSAT` (with no DSATs at all) and Avg. DTS (days to solutions) less
+Delivered best-in class support and technical solutions (including custom `PowerShell` or `Python` scripts) for products and features in `Azure` Monitor enterprise team
+- Activity logs, metrics, `alerts`, action group, `log analytics`, autoscale, `Azure automation`, `Arc enabled servers`, `machine configuration`, update manager, `application insights`
+- Maintained key individual metrics with `~5* CSAT` (with no DSATs at all) and Avg. DTS (days to solutions) less
 than a week.
 
-Additionally, ideation and creation of solutions for global and local teams to improve collaboration.
-
-- Impacting local team, created automation using `Power automate`, Approvals and Shifts app in Teams to track OOFs and
-leave planning.
-- `Impacting global team`, created an automation using `Logic app` to guide team members on best practices to follow in
-an Ava swarming channel.
+- Additionally, took initiatives, creating solutions for global and local teams to improve collaboration.
+  - Impacting local team, created automation using `Power automate`, Approvals and Shifts app in Teams to track OOFs and leave planning.
+  - `Impacting global team`, created an automation using `Logic app` to guide team members on best practices to follow in an Ava swarming channel.
 
 ### Software Developer at Hatch, Gurugram, India
 
 For, *1 Year 2 months, Sept 2018 to Oct 2019*
 
-Design, develop and deploy application programs for engineering systems using `.NET` and MS `Azure` related tools.
+Brainstorming, developing and deploying application programs for engineering systems (mechanical, civil etc.) in `.NET` and `Azure`.
 
-Create new `POCs` to test technologies or libraries; write `code for new features` and debugging exiting features; write
-tests to find, isolate and rectify issues; and report with progress to lead developer.
+Created new `POCs` to test technologies or libraries; wrote `code for new features` and debugged exiting features; wrote tests to find, isolate and rectify issues.
 
-- Leading POCs, design and development of a `micro-service` for
-- Converting documents (of format such as .docx, .xlsx, .pptx) to PDF
-- Signing engineering documents and drawings
-- Invited to Hatch Brisbane, AU office for 3 weeks to closely work with project lead to finish on design and development
-of core modules.
+- Lead POCs, design and development of a `micro-service` for
+  - Converting documents (of format such as .docx, .xlsx, .pptx) to PDF
+  - Signing engineering documents and drawings
+- Invited to Hatch Brisbane, AU office for 3 weeks to closely work with project lead to finish on design and development of core modules.
 - Partly designed and developed `web application and APIs` (both in .NET 4.7 and core) with followings
-- `Publish and subscribe` (pub-sub) based processing using `Azure event grid`.
-- Parallel processing or `Async implementation`
-- Using Azure key vault to store and fetch secret application settings.
+  - `Publish and subscribe` (pub-sub) based processing using `Azure event grid`.
+  - Parallel processing or `Async implementation`
+  - Using Azure key vault to store and fetch secret application settings.
 - Development of angular components and services with material design
 - Setup `CI CD` pipelines in `Azure DevOps`
 
@@ -61,16 +59,20 @@ of core modules.
 
 For, *2 Years 2 months, July 2016 to Aug 2018*
 
-Learned a lot while creating POCs, developing console apps in `.NET and Python, web apps, APIs` and office plugins in
-.NET, writing `shell scripts` for various automation and creating `Power BI reports` and dashboards for business level
-users.
-Used `Azure` a lot as almost every project was deployed there or had a crucial dependency on some of its services.
+Created `POCs`, developed `console apps` in `.NET and Python`, `web apps`, `APIs`, managing deployments or resources in `Azure` and office plugins in .NET, writing `shell scripts` for various automation and created `Power BI reports` and dashboards for business level users.
 
 - `Worked closely with program managers at Microsoft` India on POCs, console apps and automation.
-- Multiple `on-site visits` for requirement gathering, development work and demos at
-- Microsoft & `Myntra` office Bengaluru
+  - Multiple `on-site visits` for requirements, development work and demos at Microsoft & `Myntra` office Bengaluru
 - Good hands-on experience on learning new technologies, especially if based on MS stack.
 - Became adapt in analysing code for modification or adding new feature.
+
+
+
+| Education |
+| --------- |
+| B. Tech CSE, Uttarakhand Technical University, 2016
+| Intermediate, Uttarakhand board, 2011 |
+| Secondary School, CBSE Board, 2008 |
 
 ## Certifications
 
@@ -88,10 +90,5 @@ Intermediate, Uttarakhand board, 2011
 
 Secondary School, CBSE Board, 2008
 
-<script type="text/javascript">
-    (function(c,l,a,r,i,t,y){
-        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-    })(window, document, "clarity", "script", "l86p60bhfk");
-</script>
+<br/>
+<script src="scripts/home.js" type="text/javascript"></script>
