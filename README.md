@@ -1,6 +1,6 @@
 # Sachin Panwar
 
-[![LinkedIn](./img/in-21.png)](https://www.linkedin.com/in/sachinpanwar)
+[![LinkedIn](./assets/img/in-21.png)](https://www.linkedin.com/in/sachinpanwar)
 
 ## About me
 
@@ -15,7 +15,7 @@ I like to learn new technologies that interests me and have a track record of de
 
 `Azure cloud support` - Azure Monitor, autoscaling, Automation, Arc enabled servers, machine configuration, logic app, ARM templates, logic app.
 
-`C#`, `Python`, TypeScript, `.NET`, Azure, `DevOps`, `git`, Power BI, `Linux`, `Visual studio`.
+`C#`, `Python`, TypeScript, `.NET`, Azure, `DevOps`, `git`, `SQL`, Power BI, `Linux`, `Visual studio`.
 
 ## Professional Experience
 
@@ -28,6 +28,7 @@ I like to learn new technologies that interests me and have a track record of de
 **Vendor** - *9 Months, Nov 2019 to July 2020*
 
 Delivered best-in class support and technical solutions (including custom `PowerShell` or `Python` scripts) for products and features in `Azure` Monitor enterprise team
+- Using `Python`, `PowerShell`, `ARM templates` and `KQL` for building solutions.
 - Activity logs, metrics, `alerts`, action group, `log analytics`, autoscale, `Azure automation`, `Arc enabled servers`, `machine configuration`, update manager, `application insights`
 - Maintained key individual metrics with `~5* CSAT` (with no DSATs at all) and Avg. DTS (days to solutions) less
 than a week.
@@ -52,6 +53,7 @@ Created new `POCs` to test technologies or libraries; wrote `code for new featur
   - `Publish and subscribe` (pub-sub) based processing using `Azure event grid`.
   - Parallel processing or `Async implementation`
   - Using Azure key vault to store and fetch secret application settings.
+  - Using entity framework code-less approach and `SQL`.
 - Development of angular components and services with material design
 - Setup `CI CD` pipelines in `Azure DevOps`
 
@@ -59,7 +61,7 @@ Created new `POCs` to test technologies or libraries; wrote `code for new featur
 
 For, *2 Years 2 months, July 2016 to Aug 2018*
 
-Created `POCs`, developed `console apps` in `.NET and Python`, `web apps`, `APIs`, managing deployments or resources in `Azure` and office plugins in .NET, writing `shell scripts` for various automation and created `Power BI reports` and dashboards for business level users.
+Created `POCs`, developed `console apps` in `.NET and Python`, `web apps`, `SQL`, `APIs`, managing deployments or resources in `Azure` and office plugins in .NET, writing `shell scripts` for various automation and created `Power BI reports` and dashboards for business level users.
 
 - `Worked closely with program managers at Microsoft` India on POCs, console apps and automation.
   - Multiple `on-site visits` for requirements, development work and demos at Microsoft & `Myntra` office Bengaluru
@@ -84,4 +86,4 @@ Intermediate, Uttarakhand board, 2011
 Secondary School, CBSE Board, 2008
 
 <br/>
-<script src="scripts/home.js" type="text/javascript"></script>
+<script src="assets/scripts/home.js" type="text/javascript"></script>
