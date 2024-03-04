@@ -53,7 +53,7 @@ Created new `POCs` to test technologies or libraries; wrote `code for new featur
   - `Publish and subscribe` (pub-sub) based processing using `Azure event grid`.
   - Parallel processing or `Async implementation`
   - Using Azure key vault to store and fetch secret application settings.
-  - Using entity framework code-less approach and `SQL`.
+  - Using entity framework code-first approach and `SQL`.
 - Development of angular components and services with material design
 - Setup `CI CD` pipelines in `Azure DevOps`
 
