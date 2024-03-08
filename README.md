@@ -4,18 +4,19 @@
 
 ## About me
 
-I am currently working as a support engineer at Microsoft for Azure products.
-I have around 3 years of software development experience including working for Microsoft (via vendor) on some projects.
+Experienced software developer with a passion for Microsoft technologies, customer obsession and cloud solutions.
+Proficient in C#, Azure, SQL and TypeScript.
 
-I like to learn new technologies that interests me and have a track record of delivering business results expected of me.
+Adept at collaborating with cross-functional teams, including Microsoft PMs, to deliver robust software solutions.
+Skilled in troubleshooting and providing exceptional customer support for Azure products.
 
 ## Skills and technology summary
+
+`C#`, `Python`, TypeScript, `.NET`, Azure, `DevOps`, `git`, `SQL`, Power BI, `Linux`, `Visual studio`.
 
 `Problem solving`, developing proof of concepts and solutions, `Python`, `PowerShell`, `KQL`, ARM templates.
 
 `Azure cloud support` - Azure Monitor, autoscaling, Automation, Arc enabled servers, machine configuration, logic app, ARM templates, logic app.
-
-`C#`, `Python`, TypeScript, `.NET`, Azure, `DevOps`, `git`, `SQL`, Power BI, `Linux`, `Visual studio`.
 
 ## Professional Experience
 
@@ -41,32 +42,30 @@ than a week.
 
 For, *1 Year 2 months, Sept 2018 to Oct 2019*
 
-Brainstorming, developing and deploying application programs for engineering systems (mechanical, civil etc.) in `.NET` and `Azure`.
+Brainstorming, developing and deploying application programs for engineering systems (mechanical, civil etc.) in `.NET`, `Azure`, `Angular` and `SQL`.
 
-Created new `POCs` to test technologies or libraries; wrote `code for new features` and debugged exiting features; wrote tests to find, isolate and rectify issues.
+Developed `microservices` for new features with debugging existing features as needed.
 
 - Lead POCs, design and development of a `micro-service` for
   - Converting documents (of format such as .docx, .xlsx, .pptx) to PDF
   - Signing engineering documents and drawings
-- Invited to Hatch Brisbane, AU office for 3 weeks to closely work with project lead to finish on design and development of core modules.
-- Partly designed and developed `web application and APIs` (both in .NET 4.7 and core) with followings
+- Closely work with project lead to finish on design and development of core `microservices` modules.
   - `Publish and subscribe` (pub-sub) based processing using `Azure event grid`.
   - Parallel processing or `Async implementation`
   - Using Azure key vault to store and fetch secret application settings.
-  - Using entity framework code-first approach and `SQL`.
-- Development of angular components and services with material design
-- Setup `CI CD` pipelines in `Azure DevOps`
+  - Using `Entity framework` code-first approach.
+- Development of `Angular` components with material design and services
+- Used `git` for version control.
+- Setup and manage `CI CD` pipelines for building and deploying these services in `Azure DevOps`
 
 ### Jr. Software Developer at Quadrate Global Pvt Ltd, Gurugram, India
 
 For, *2 Years 2 months, July 2016 to Aug 2018*
 
-Created `POCs`, developed `console apps` in `.NET and Python`, `web apps`, `SQL`, `APIs`, managing deployments or resources in `Azure` and office plugins in .NET, writing `shell scripts` for various automation and created `Power BI reports` and dashboards for business level users.
+Worked on multiple project varying from developing web apps, console apps and API in `C# .NET`, creating static `SharePoint` sites, creating `IoT` related proof of concepts, custom solutions in `Python`, writing `Linux shell scripts` for various automation, developing orchestrations to process flat files in `BizTalk` to creating `PowerBI` reports.
 
-- `Worked closely with program managers at Microsoft` India on POCs, console apps and automation.
-  - Multiple `on-site visits` for requirements, development work and demos at Microsoft & `Myntra` office Bengaluru
-- Good hands-on experience on learning new technologies, especially if based on MS stack.
-- Became adapt in analysing code for modification or adding new feature.
+- Collaborated with Microsoft PMs on development and demos.
+- Became adapt in analyzing code for creating new feature or debugging.
 
 
 ## Certifications
