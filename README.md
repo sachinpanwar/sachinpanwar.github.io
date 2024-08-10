@@ -20,15 +20,33 @@ Skilled in troubleshooting and providing exceptional customer support for Azure 
 
 ## Professional Experience
 
-### Support Engineer at Microsoft, Hyderabad and Noida, India
+| Role                  | Company                 | Duration |
+|---|---|---|
+| SWE     | Microsoft               | Present |
+| SE      | Microsoft               | 4 Year 8 months |
+| SWE     | Hatch                   | 1 Year 2 months |
+| SWE  | Quadrate Global Pvt Ltd | 2 Years 2 months |
 
-**FTE** - *3.5 Years, Aug 2020 to Present*
+### Software Engineer - Microsoft, India
 
-### Support Engineer at Microsoft, Bengaluru, India
+Aug 2024 - Present
 
-**Vendor** - *9 Months, Nov 2019 to July 2020*
+Started working in Azure core compute data center platform team
 
-Delivered best-in class support and technical solutions (including custom `PowerShell` or `Python` scripts) for products and features in `Azure` Monitor enterprise team
+### Support Engineer - Microsoft, India
+
+Nov 2019 - July 2024
+
+Worked for following Azure services:
+- Azure monitor
+  - Activity logs, Metrics, Alerts, Action group, Log analytics
+- Azure automation
+- Azure autoscale
+- Azure update manager
+- Azure Arc-enabled servers
+- Azure machine configuration
+
+Delivered best-in class technical support, solutions and custom scripts for products and features in `Azure` Monitor enterprise team
 - Using `Python`, `PowerShell`, `ARM templates` and `KQL` for building solutions.
 - Activity logs, metrics, `alerts`, action group, `log analytics`, autoscale, `Azure automation`, `Arc enabled servers`, `machine configuration`, update manager, `application insights`
 - Maintained key individual metrics with `~5* CSAT` (with no DSATs at all) and Avg. DTS (days to solutions) less
@@ -38,9 +56,9 @@ than a week.
   - Impacting local team, created automation using `Power automate`, Approvals and Shifts app in Teams to track OOFs and leave planning.
   - `Impacting global team`, created an automation using `Logic app` to guide team members on best practices to follow in an Ava swarming channel.
 
-### Software Developer at Hatch, Gurugram, India
+### Software Developer - Hatch, Gurugram, India
 
-For, *1 Year 2 months, Sept 2018 to Oct 2019*
+Sept 2018 - Oct 2019.
 
 Brainstorming, developing and deploying application programs for engineering systems (mechanical, civil etc.) in `.NET`, `Azure`, `Angular` and `SQL`.
 
@@ -58,9 +76,9 @@ Developed `microservices` for new features with debugging existing features as n
 - Used `git` for version control.
 - Setup and manage `CI CD` pipelines for building and deploying these services in `Azure DevOps`
 
-### Jr. Software Developer at Quadrate Global Pvt Ltd, Gurugram, India
+### Software Developer - Quadrate Global Pvt Ltd, Gurugram, India
 
-For, *2 Years 2 months, July 2016 to Aug 2018*
+July 2016 - Aug 2018.
 
 Worked on multiple project varying from developing web apps, console apps and API in `C# .NET`, creating static `SharePoint` sites, creating `IoT` related proof of concepts, custom solutions in `Python`, writing `Linux shell scripts` for various automation, developing orchestrations to process flat files in `BizTalk` to creating `PowerBI` reports.
 
