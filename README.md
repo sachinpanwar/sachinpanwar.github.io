@@ -29,13 +29,13 @@ Skilled in troubleshooting and providing exceptional customer support for Azure 
 
 ### Software Engineer - Microsoft, India
 
-Aug 2024 - Present
+*Aug 2024 - Present*
 
 Started working in Azure core compute data center platform team
 
 ### Support Engineer - Microsoft, India
 
-Nov 2019 - July 2024
+*Nov 2019 - July 2024*
 
 Worked on following Azure services - Azure monitor (Activity logs, Metrics, Alerts, Action group, Log analytics), Azure autoscale, Azure automation, Azure update manager, Azure Arc-enabled servers and Azure machine configuration.
 
@@ -56,7 +56,7 @@ than a week.
 
 ### Software Developer - Hatch, Gurugram, India
 
-Sept 2018 - Oct 2019
+*Sept 2018 - Oct 2019*
 
 Brainstorming, developing and deploying application programs for engineering systems (mechanical, civil etc.) in `.NET`, `Azure`, `Angular` and `SQL`.
 
@@ -81,7 +81,7 @@ Developed `microservices` for new features with debugging existing features as n
 
 ### Software Developer - Quadrate Global Pvt Ltd, Gurugram, India
 
-July 2016 - Aug 2018
+*July 2016 - Aug 2018*
 
 Worked on multiple project varying from developing web apps, console apps and API in `C# .NET`, creating static `SharePoint` sites, creating `IoT` related proof of concepts, custom solutions in `Python`, writing `Linux shell scripts` for various automation, developing orchestrations to process flat files in `BizTalk` to creating `PowerBI` reports.
 
