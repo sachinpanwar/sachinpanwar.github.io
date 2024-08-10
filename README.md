@@ -56,7 +56,7 @@ than a week.
 
 ### Software Developer - Hatch, Gurugram, India
 
-Sept 2018 - Oct 2019.
+Sept 2018 - Oct 2019
 
 Brainstorming, developing and deploying application programs for engineering systems (mechanical, civil etc.) in `.NET`, `Azure`, `Angular` and `SQL`.
 
@@ -81,7 +81,7 @@ Developed `microservices` for new features with debugging existing features as n
 
 ### Software Developer - Quadrate Global Pvt Ltd, Gurugram, India
 
-July 2016 - Aug 2018.
+July 2016 - Aug 2018
 
 Worked on multiple project varying from developing web apps, console apps and API in `C# .NET`, creating static `SharePoint` sites, creating `IoT` related proof of concepts, custom solutions in `Python`, writing `Linux shell scripts` for various automation, developing orchestrations to process flat files in `BizTalk` to creating `PowerBI` reports.
 
